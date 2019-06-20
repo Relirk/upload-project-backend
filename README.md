@@ -1,7 +1,7 @@
 # upload-project-backend
 :computer: Creating an API to load images locally and remotely
 
-Heroku url: 
+Heroku url: https://rlk-upload-project-backend.herokuapp.com/
 
 Build your .env file based on these specifications: 
 
