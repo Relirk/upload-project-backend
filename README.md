@@ -16,12 +16,12 @@
 </p>
 
 :computer: Creating an API to load images locally and remotely
-
-### 
+* API accessible by link: https://rlk-upload-project-backend.herokuapp.com/
 
 ### Tools used:
 - [NodeJS](https://nodejs.org/en/)
 - [Nodemon](https://nodemon.io/)
+- [Heroku](https://id.heroku.com/login)
 
 ### Build your .env file based on these specifications: 
 ```sh 
